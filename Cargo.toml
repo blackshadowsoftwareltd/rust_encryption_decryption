@@ -1,0 +1,9 @@
+[package]
+name = "encrypter_decrypter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ring = "0.17"
+data-encoding = "2.6"
+anyhow = "1.0"
